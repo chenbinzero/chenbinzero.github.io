@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap">You can find a full list of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+![citation may 2024](images/CleanShot 2024-05-18 at 12.48.25.png)
+
 ## Selected publications 
 († equal contribution, * corresponding)
 
