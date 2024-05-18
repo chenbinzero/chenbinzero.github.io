@@ -8,3 +8,4 @@ author_profile: true
 ---
 
 News 
+Bin is joining Tandem PV workshop in Amsterdam June 25-27
