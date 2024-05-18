@@ -7,6 +7,5 @@ author_profile: true
 #  - /news.md
 ---
 
-#{% include base_path %}
 
 Bin is joining Tandem PV workshop in Amsterdam June 25-27
