@@ -24,9 +24,9 @@ author:
   avatar           : "Bin Chen photo.jpg"
   name             : "Bin Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant Professor <br /> Materials chemistry and physics for energy and sustainability"
+  bio              : "Research Assistant Professor"
   location         : "Evanston, Illinois"
-  employer         : "Department of Chemistry Northwestern University"
+  employer         : "Northwestern University"
   uri              : # URL
   email            : "bin.chen@northwestern.edu" 
 
