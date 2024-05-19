@@ -12,7 +12,7 @@ title                    : "Dr. Bin Chen"
 title_separator          : "-"
 name                     : &name "Bin Chen"
 description              : &description "Research Assistant Professor Department of Chemistry Northwestern University"
-url                      : binchen.phd # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://binchen.phd # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenbinzero/chenbinzero.github.io"
 
