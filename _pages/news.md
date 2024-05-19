@@ -4,10 +4,8 @@ title: "News"
 author_profile: true
 ---
 
-## 2024
-* Bin is joining Tandem PV workshop in Amsterdam June 25-27
-
-* Our lastest work on perovskite solar is online! [Improved charge extraction in inverted perovskite solar cells with dual-site-binding ligands – Science](https://www.science.org/doi/10.1126/science.adm9474)
 
 ## 2023
+* *2023.12* Bin is attending MRS Fall at Boston
+* *2023.11* Our latest work is online! [Bimolecularly passivated interface enables efficient and stable inverted perovskite solar cells - Science](https://www.science.org/doi/10.1126/science.adk1633)
 
