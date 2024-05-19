@@ -21,7 +21,7 @@ repository               : "chenbinzero/chenbinzero.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Bin Chen photo.jpg"
+  avatar           : "ProfilePhoto.jpg"
   name             : "Bin Chen"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant Professor"
