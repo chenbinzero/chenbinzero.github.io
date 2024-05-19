@@ -12,3 +12,5 @@ I am a Research Assistant Professor at Northwestern University. I received my Ph
 ## News
 * *2024.05* Bin is joining the Tandem PV workshop in Amsterdam June 25-27
 * *2024.04* Our latest work on perovskite solar cell is online! [Improved charge extraction in inverted perovskite solar cells with dual-site-binding ligands – Science](https://www.science.org/doi/10.1126/science.adm9474)
+
+<object data="/files/Bin_Chen_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
