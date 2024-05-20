@@ -1,6 +1,6 @@
 ---
-permalink: /newsArchive/
-title: "News Archive”
+permalink: /archive/
+title: "Archive”
 author_profile: true
 ---
 
