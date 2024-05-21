@@ -9,6 +9,11 @@ author_profile: true
   <div class="wordwrap">You can find a full list of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+{% if site.author.webofscience %}
+  <div class="wordwrap">Highly Cited Researcher in the field of Cross-Field - 2023 <a href="{{site.author.webofscience}}">by Clarivate</a>.</div>
+{% endif %}
+
+
 <img src="/images/citationMay.png" width="300">
 
 ## Selected publications 
