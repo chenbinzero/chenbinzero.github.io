@@ -13,8 +13,7 @@ author_profile: true
   <div class="wordwrap">I was recognized as a Highly Cited Researcher in the field of Cross-Field - 2023 <a href="{{site.author.webofscience}}">by Clarivate</a>.</div>
 {% endif %}
 
-
-<img src="/images/citationMay.png" width="300">
+<img src="/images/citationGoogle.png" width="300">
 
 ## Selected publications 
 († equal contribution, * corresponding)
@@ -26,7 +25,7 @@ E.; Wang, J.; Grater, L.; Kopilovic, D.; Luo, D.; Liu, J.; Hu, Q.; Chen,
 C.; Shen, J.; Han, Y.; Perini, C. A. R.; Correa-Baena, J.; Lu, Z.;
 Russell, T. P.; De Wolf, S.; Kanatzidis, M. G.; Ginger, D. S.; **Chen,
 B.\***; Yan, Y.\*; Sargent, E. H.\* A 0-D Barrier Layer Increases
-Stability in All-Perovskite Tandems. 2024 (submitted)
+Stability in All-Perovskite Tandems. Nature Energy 2024 (Accepted)
 
 Chen, H.†; Liu, C.†; Xu, J.†; Maxwell, A.†; Zhou, W.†; Yang, Y.; Zhou,
 Q.; Bati, A. S. R.; Wan, H.; Wang, Z.; Zeng, L.; Wang, J.; Serles, P.;
