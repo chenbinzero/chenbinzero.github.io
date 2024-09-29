@@ -18,7 +18,7 @@ author_profile: true
 ## Selected publications 
 († equal contribution, * corresponding)
 
-Li, C.; Chen, L.; Jiang, F.; Song, Z.; Wang, X.; Balvanz, A.; Ugur, E.; Liu, Y.; Liu, C.; Maxwell, A.; Chen, H.; Liu, Y.; Wang, Z.; Xia, P.; Li, Y.; Fu, S.; Sun, N.; Grice, C. R.; Wu, X.; Fink, Z.; Hu, Q.; Zeng, L.; Jung, E.; Wang, J.; Park, S. M.; Luo, D.; Chen, C.; Shen, J.; Han, Y.; Perini, C. A. R.; Correa-Baena, J.-P.; Lu, Z.-H.; Russell, T. P.; De Wolf, S.; Kanatzidis, M. G.; Ginger, D. S.; **Chen, B.***; Yan, Y.\*; Sargent, E. H.\* Diamine Chelates for Increased Stability in Mixed Sn–Pb and All-Perovskite Tandem Solar Cells. *Nat. Energy* **2024**, 1–9.  
+Li, C.; Chen, L.; Jiang, F.; Song, Z.; Wang, X.; Balvanz, A.; Ugur, E.; Liu, Y.; Liu, C.; Maxwell, A.; Chen, H.; Liu, Y.; Wang, Z.; Xia, P.; Li, Y.; Fu, S.; Sun, N.; Grice, C. R.; Wu, X.; Fink, Z.; Hu, Q.; Zeng, L.; Jung, E.; Wang, J.; Park, S. M.; Luo, D.; Chen, C.; Shen, J.; Han, Y.; Perini, C. A. R.; Correa-Baena, J.-P.; Lu, Z.-H.; Russell, T. P.; De Wolf, S.; Kanatzidis, M. G.; Ginger, D. S.; **Chen, B.\***; Yan, Y.\*; Sargent, E. H.\* Diamine Chelates for Increased Stability in Mixed Sn–Pb and All-Perovskite Tandem Solar Cells. *Nat. Energy* **2024**, 1–9.  
 
 ​    Chen, H.; Liu, C.; Xu, J.; Maxwell, A.; Zhou, W.; Yang, Y.; Zhou, Q.; Bati, A. S. R.; Wan, H.; Wang, Z.; Zeng, L.; Wang, J.; Serles, P.; Liu, Y.; Teale, S.; Liu, Y.; Saidaminov, M. I.; Li, M.; Rolston, N.; Hoogland, S.; Filleter, T.; Kanatzidis, M. G.; **Chen, B.***; Ning, Z.\*; Sargent, E. H.\* Improved Charge Extraction in Inverted Perovskite Solar Cells with Dual-Site-Binding Ligands. *Science* **2024**, *384* (6692), 189–193.  
 
