@@ -22,9 +22,9 @@ Li, C.; Chen, L.; Jiang, F.; Song, Z.; Wang, X.; Balvanz, A.; Ugur, E.; Liu, Y.;
 
 Chen, H.†; Liu, C.†; Xu, J.†; Maxwell, A.†; Zhou, W.†; Yang, Y.; Zhou, Q.; Bati, A. S. R.; Wan, H.; Wang, Z.; Zeng, L.; Wang, J.; Serles, P.; Liu, Y.; Teale, S.; Liu, Y.; Saidaminov, M.; Hoogland, S.; Filleter, T.; Kanatzidis, M. G.; **Chen, B.\***; Ning Z\*; Sargent, E. H.\* Improved
 charge extraction in inverted perovskite solar cells with
-dual-site-binding ligands. Science 2024, 384 (6692), 189--193.
+dual-site-binding ligands. *Science* **2024**, 384 (6692), 189--193.
 
-Xu, J.; Maxwell, A.; Song, Z.; Bati, A. S. R.; Chen, H.; Li, C.; Park, S. M.; Yan, Y.; **Chen, B.\***; Sargent, E. H.\* The Dynamic Adsorption Affinity of Ligands Is a Surrogate for the Passivation of Surface Defects. Nat. Commun. 2024, 15 (1), 2035.
+Xu, J.; Maxwell, A.; Song, Z.; Bati, A. S. R.; Chen, H.; Li, C.; Park, S. M.; Yan, Y.; **Chen, B.\***; Sargent, E. H.\* The Dynamic Adsorption Affinity of Ligands Is a Surrogate for the Passivation of Surface Defects. *Nat. Commun.* **2024**, 15 (1), 2035.
 
 Maxwell, A.†; Chen, H.†; Grater, L.; Li, C.; Teale, S.; Wang, J.; Zeng, L.; Wang, Z.; Park, S. M.; Vafaie, M.; Sidhik, S.; Metcalf, I. W.; Liu, Y.; Mohite, A. D.; **Chen, B.\***; Sargent, E. H.\* All-Perovskite Tandems Enabled by Surface Anchoring of Long-Chain Amphiphilic Ligands.
 *ACS Energy Lett.* 2024, 520--527.
