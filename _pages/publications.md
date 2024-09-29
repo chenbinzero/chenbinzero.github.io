@@ -20,11 +20,11 @@ author_profile: true
 
 Li, C.; Chen, L.; Jiang, F.; Song, Z.; Wang, X.; Balvanz, A.; Ugur, E.; Liu, Y.; Liu, C.; Maxwell, A.; Chen, H.; Liu, Y.; Wang, Z.; Xia, P.; Li, Y.; Fu, S.; Sun, N.; Grice, C. R.; Wu, X.; Fink, Z.; Hu, Q.; Zeng, L.; Jung, E.; Wang, J.; Park, S. M.; Luo, D.; Chen, C.; Shen, J.; Han, Y.; Perini, C. A. R.; Correa-Baena, J.-P.; Lu, Z.-H.; Russell, T. P.; De Wolf, S.; Kanatzidis, M. G.; Ginger, D. S.; **Chen, B.***; Yan, Y.\*; Sargent, E. H.\* Diamine Chelates for Increased Stability in Mixed Sn–Pb and All-Perovskite Tandem Solar Cells. *Nat. Energy* **2024**, 1–9.  
 
-Chen, H.†; Liu, C.†; Xu, J.†; Maxwell, A.†; Zhou, W.†; Yang, Y.; Zhou, Q.; Bati, A. S. R.; Wan, H.; Wang, Z.; Zeng, L.; Wang, J.; Serles, P.; Liu, Y.; Teale, S.; Liu, Y.; Saidaminov, M.; Hoogland, S.; Filleter, T.; Kanatzidis, M. G.; **Chen, B.\***; Ning Z\*; Sargent, E. H.\* Improved
+Chen, H.†; Liu, C.†; Xu, J.†; Maxwell, A.†; Zhou, W.†; Yang, Y.; Zhou, Q.; Bati, A. S. R.; Wan, H.; Wang, Z.; Zeng, L.; Wang, J.; Serles, P.; Liu, Y.; Teale, S.; Liu, Y.; Saidaminov, M.; Hoogland, S.; Filleter, T.; Kanatzidis, M. G.; ** Chen, B.\* **; Ning Z\*; Sargent, E. H.\* Improved
 charge extraction in inverted perovskite solar cells with
 dual-site-binding ligands. *Science* **2024**, 384 (6692), 189--193.
 
-Xu, J.; Maxwell, A.; Song, Z.; Bati, A. S. R.; Chen, H.; Li, C.; Park, S. M.; Yan, Y.; **Chen, B.\***; Sargent, E. H.\* The Dynamic Adsorption Affinity of Ligands Is a Surrogate for the Passivation of Surface Defects. *Nat. Commun.* **2024**, 15 (1), 2035.
+Xu, J.; Maxwell, A.; Song, Z.; Bati, A. S. R.; Chen, H.; Li, C.; Park, S. M.; Yan, Y.; ** Chen, B.\* **; Sargent, E. H.\* The Dynamic Adsorption Affinity of Ligands Is a Surrogate for the Passivation of Surface Defects. *Nat. Commun.* **2024**, 15 (1), 2035.
 
 Maxwell, A.†; Chen, H.†; Grater, L.; Li, C.; Teale, S.; Wang, J.; Zeng, L.; Wang, Z.; Park, S. M.; Vafaie, M.; Sidhik, S.; Metcalf, I. W.; Liu, Y.; Mohite, A. D.; **Chen, B.\***; Sargent, E. H.\* All-Perovskite Tandems Enabled by Surface Anchoring of Long-Chain Amphiphilic Ligands.
 *ACS Energy Lett.* 2024, 520--527.
