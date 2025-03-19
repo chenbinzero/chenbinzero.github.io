@@ -22,12 +22,12 @@ author_profile: true
 19. Choi, D.; Shin, D.; Li, C.; Liu, Y.; Bati, A. S. R.; Kachman, D. E.; Yang, Y.; Li, J.; Lee, Y. J.;
 Li, M.; Penukula, S.; Kim, D. B.; Shin, H.; Chen, C.-H.; Park, S. M.; Liu, C.; Maxwell, A.; Wan,
 H.; Rolston, N.; Sargent, E. H.\*; **Chen, B.\*** Carboxyl-Functionalized Perovskite Enables ALD
-Growth of a Compact and Uniform Ion Migration Barrier. Joule 2025, 0 (101801), 101801.
+Growth of a Compact and Uniform Ion Migration Barrier. *Joule* **2025**, 0 (101801), 101801.
 
 18. Yang, Y.; Chen, H.; Liu, C.; Xu, J.; Huang, C.; Malliakas, C. D.; Wan, H.; Bati, A. S. R.;
 Wang, Z.; Reynolds, R. P.; Gilley, I. W.; Kitade, S.; Wiggins, T. E.; Zeiske, S.; Suragtkhuu, S.;
 Batmunkh, M.; Chen, L. X.; **Chen, B.\***; Kanatzidis, M. G.\*; Sargent, E. H.\* Amidination of
-Ligands for Chemical and Field-Effect Passivation Stabilizes Perovskite Solar Cells. Science 2024,
+Ligands for Chemical and Field-Effect Passivation Stabilizes Perovskite Solar Cells. *Science* **2024**,
 386 (6724), 898–902.
 
 17. Li, C.; Chen, L.; Jiang, F.; Song, Z.; Wang, X.; Balvanz, A.; Ugur, E.; Liu, Y.; Liu, C.; Maxwell, A.; Chen, H.; Liu, Y.; Wang, Z.; Xia, P.; Li, Y.; Fu, S.; Sun, N.; Grice, C. R.; Wu, X.; Fink, Z.; Hu, Q.; Zeng, L.; Jung, E.; Wang, J.; Park, S. M.; Luo, D.; Chen, C.; Shen, J.; Han, Y.; Perini, C. A. R.; Correa-Baena, J.-P.; Lu, Z.-H.; Russell, T. P.; De Wolf, S.; Kanatzidis, M. G.; Ginger, D. S.; **Chen, B.\***; Yan, Y.\*; Sargent, E. H.\* Diamine Chelates for Increased Stability in Mixed Sn–Pb and All-Perovskite Tandem Solar Cells. *Nat. Energy* **2024**, 1–9.  

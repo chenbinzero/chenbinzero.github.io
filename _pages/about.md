@@ -16,10 +16,10 @@ I have been recognized as a Highly Cited Researcher in the Cross-Field category 
 ## News
 * *2025.04* I am joining MRS Spring meeting in Seattle Apr 7-11
 * *2025.01* Our latest work on perovskite solar cells is online! [Carboxyl-functionalized perovskite enables ALD growth of a compact and uniform ion migration barrier - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S2542435124005154)
-* *2024.11* I am honored to be featured in The People Issue 2024 - Chicago Reader [Bin Chen, The Solar-Cell Chemist - The People Issue 2024 - Chicago Reader](https://chicagoreader.com/city-life/bin-chen/)
 * *2024.11* I am joining MRS Fall meeting in Boston Dec 1-5
 * *2024.11* Our latest work on perovskite solar cells is online! [Amidination of ligands for chemical and field-effect passivation stabilizes perovskite solar cells – Science](https://www.science.org/doi/10.1126/science.adr2091)
 * *2024.11* My interview with the Chicago Reader People Issue is now live! [Bin Chen, The Solar-Cell Chemist - The People Issue 2024 - Chicago Reader](https://chicagoreader.com/city-life/people-issue/bin-chen/)
+* *2024.08* Our latest work on perovskite solar cells is online! [Diamine chelates for increased stability in mixed Sn–Pb and all-perovskite tandem solar cells – Nature Energy](https://www.nature.com/articles/s41560-024-01613-8)
 * *2024.07* I am joining ACS Fall meeting in Denver August 18-19
 * *2024.05* I am joining Tandem PV workshop in Amsterdam June 25-27
 * *2024.04* Our latest work on perovskite solar cells is online! [Improved charge extraction in inverted perovskite solar cells with dual-site-binding ligands – Science](https://www.science.org/doi/10.1126/science.adm9474)
