@@ -19,11 +19,22 @@ author_profile: true
 ## Selected publications 
 († equal contribution, * corresponding)
 
+Choi, D.; Shin, D.; Li, C.; Liu, Y.; Bati, A. S. R.; Kachman, D. E.; Yang, Y.; Li, J.; Lee, Y. J.;
+Li, M.; Penukula, S.; Kim, D. B.; Shin, H.; Chen, C.-H.; Park, S. M.; Liu, C.; Maxwell, A.; Wan,
+H.; Rolston, N.; Sargent, E. H.\*; **Chen, B.\*** Carboxyl-Functionalized Perovskite Enables ALD
+Growth of a Compact and Uniform Ion Migration Barrier. Joule 2025, 0 (101801), 101801.
+
+Yang, Y.; Chen, H.; Liu, C.; Xu, J.; Huang, C.; Malliakas, C. D.; Wan, H.; Bati, A. S. R.;
+Wang, Z.; Reynolds, R. P.; Gilley, I. W.; Kitade, S.; Wiggins, T. E.; Zeiske, S.; Suragtkhuu, S.;
+Batmunkh, M.; Chen, L. X.; **Chen, B.\***; Kanatzidis, M. G.\*; Sargent, E. H.\* Amidination of
+Ligands for Chemical and Field-Effect Passivation Stabilizes Perovskite Solar Cells. Science 2024,
+386 (6724), 898–902.
+
 Li, C.; Chen, L.; Jiang, F.; Song, Z.; Wang, X.; Balvanz, A.; Ugur, E.; Liu, Y.; Liu, C.; Maxwell, A.; Chen, H.; Liu, Y.; Wang, Z.; Xia, P.; Li, Y.; Fu, S.; Sun, N.; Grice, C. R.; Wu, X.; Fink, Z.; Hu, Q.; Zeng, L.; Jung, E.; Wang, J.; Park, S. M.; Luo, D.; Chen, C.; Shen, J.; Han, Y.; Perini, C. A. R.; Correa-Baena, J.-P.; Lu, Z.-H.; Russell, T. P.; De Wolf, S.; Kanatzidis, M. G.; Ginger, D. S.; **Chen, B.\***; Yan, Y.\*; Sargent, E. H.\* Diamine Chelates for Increased Stability in Mixed Sn–Pb and All-Perovskite Tandem Solar Cells. *Nat. Energy* **2024**, 1–9.  
 
-​    Chen, H.; Liu, C.; Xu, J.; Maxwell, A.; Zhou, W.; Yang, Y.; Zhou, Q.; Bati, A. S. R.; Wan, H.; Wang, Z.; Zeng, L.; Wang, J.; Serles, P.; Liu, Y.; Teale, S.; Liu, Y.; Saidaminov, M. I.; Li, M.; Rolston, N.; Hoogland, S.; Filleter, T.; Kanatzidis, M. G.; **Chen, B.\***; Ning, Z.\*; Sargent, E. H.\* Improved Charge Extraction in Inverted Perovskite Solar Cells with Dual-Site-Binding Ligands. *Science* **2024**, *384* (6692), 189–193.  
+Chen, H.; Liu, C.; Xu, J.; Maxwell, A.; Zhou, W.; Yang, Y.; Zhou, Q.; Bati, A. S. R.; Wan, H.; Wang, Z.; Zeng, L.; Wang, J.; Serles, P.; Liu, Y.; Teale, S.; Liu, Y.; Saidaminov, M. I.; Li, M.; Rolston, N.; Hoogland, S.; Filleter, T.; Kanatzidis, M. G.; **Chen, B.\***; Ning, Z.\*; Sargent, E. H.\* Improved Charge Extraction in Inverted Perovskite Solar Cells with Dual-Site-Binding Ligands. *Science* **2024**, *384* (6692), 189–193.  
 
-​    Xu, J.; Maxwell, A.; Song, Z.; Bati, A. S. R.; Chen, H.; Li, C.; Park, S. M.; Yan, Y.; **Chen, B.\***; Sargent, E. H.\* The Dynamic Adsorption Affinity of Ligands Is a Surrogate for the Passivation of Surface Defects. *Nat. Commun.* **2024**, *15* (1), 2035.  
+Xu, J.; Maxwell, A.; Song, Z.; Bati, A. S. R.; Chen, H.; Li, C.; Park, S. M.; Yan, Y.; **Chen, B.\***; Sargent, E. H.\* The Dynamic Adsorption Affinity of Ligands Is a Surrogate for the Passivation of Surface Defects. *Nat. Commun.* **2024**, *15* (1), 2035.  
 
 ​    Maxwell, A.; Chen, H.; Grater, L.; Li, C.; Teale, S.; Wang, J.; Zeng, L.; Wang, Z.; Park, S. M.; Vafaie, M.; Sidhik, S.; Metcalf, I. W.; Liu, Y.; Mohite, A. D.; **Chen, B.\***; Sargent, E. H.\* All-Perovskite Tandems Enabled by Surface Anchoring of Long-Chain Amphiphilic Ligands. *ACS Energy Lett.* **2024**, 520–527.  
 
