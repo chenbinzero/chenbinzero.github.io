@@ -66,9 +66,10 @@ To update the CV:
 
 ### Citation Stats
 - **Do not** use OpenAlex (wrong author disambiguation for "Bin Chen") or Semantic Scholar (fragmented, ~28 papers)
-- Source: Google Scholar via `scholarly` library (Scholar ID: `H001jmIAAAAJ`)
-- Cached in `_data/google_scholar_stats.json`, refreshed monthly by `.github/workflows/update_scholar_stats.yml`
-- Manual trigger: GitHub → Actions tab → "Update Google Scholar Stats" → Run workflow
+- Source: Google Scholar profile page (Scholar ID: `H001jmIAAAAJ`), parsed directly with `urllib` + regex over `gsc_rsb_std` cells — no third-party dependency
+- Cached in `_data/google_scholar_stats.json`
+- Refresh on demand by running `python3 scripts/update_scholar_stats.py` from the repo root, then commit + push the resulting JSON diff
+- Must run from a residential IP (the PI's Mac). Datacenter IPs (GitHub Actions runners, cloud servers) get a CAPTCHA; the script exits non-zero on detection without overwriting the cached JSON
 
 ### Publication MD File Template
 ```yaml
