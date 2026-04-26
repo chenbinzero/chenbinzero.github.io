@@ -18,28 +18,35 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install scholarly
-        run: pip install scholarly
-
       - name: Fetch Google Scholar stats
         run: |
           python3 << 'PYTHON'
-          from scholarly import scholarly
-          import json, sys
+          import urllib.request, json, re, sys
           from datetime import datetime
 
           SCHOLAR_ID = "H001jmIAAAAJ"
+          URL = f"https://scholar.google.com/citations?user={SCHOLAR_ID}&hl=en"
+          UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36")
 
           try:
-              print(f"Fetching stats for {SCHOLAR_ID}...")
-              author = scholarly.search_author_id(SCHOLAR_ID)
-              scholarly.fill(author, sections=['basics', 'indices'])
+              req = urllib.request.Request(URL, headers={"User-Agent": UA})
+              with urllib.request.urlopen(req, timeout=30) as resp:
+                  html = resp.read().decode("utf-8")
+
+              nums = re.findall(r'<td class="gsc_rsb_std">(\d+)</td>', html)
+              if len(nums) < 6:
+                  print(f"WARNING: expected >=6 stats cells, got {len(nums)}. "
+                        f"Likely served a CAPTCHA page. Keeping existing JSON.",
+                        file=sys.stderr)
+                  sys.exit(0)
 
               data = {
-                  "citations":    author.get("citedby",   0),
-                  "hindex":       author.get("hindex",    0),
-                  "i10index":     author.get("i10index",  0),
-                  "last_updated": datetime.utcnow().strftime("%Y-%m-%d")
+                  "citations":    int(nums[0]),  # all-time
+                  "hindex":       int(nums[2]),  # all-time
+                  "i10index":     int(nums[4]),  # all-time
+                  "last_updated": datetime.utcnow().strftime("%Y-%m-%d"),
               }
 
               with open("_data/google_scholar_stats.json", "w") as f:
