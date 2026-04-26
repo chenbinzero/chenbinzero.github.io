@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Research Associate Professor at Northwestern University. I received my Ph.D. in Materials Science and Engineering from Arizona State University, focusing on understanding defects in 2D materials. Before joining Northwestern, I completed postdoctoral training at the University of Toronto, where I studied perovskites, quantum dots, and their optoelectronic devices. Currently, my research centers on defect passivation and enhancing the stability of interfaces in perovskite solar cells.
 
-I have been recognized as a Highly Cited Researcher in the Cross-Field category by Clarivate and featured in Stanford/Elsevier’s list of top 2% scientists worldwide. As a first or corresponding author, I have published 19 high-impact papers, including Science (3), Nature (1), Nature Energy (2), Nature Photonics (1), and Nature Synthesis (1), contributing to a total of over 121 publications. My work has received more than 25,000 citations, with a Google Scholar h-index of 73.
+I have been recognized as a Highly Cited Researcher in the Cross-Field category by Clarivate and featured in Stanford/Elsevier’s list of top 2% scientists worldwide. As a first or corresponding author, I have published 19 high-impact papers, including Science (3), Nature (1), Nature Energy (2), Nature Photonics (1), and Nature Synthesis (1), contributing to a total of over 121 publications. My work has received more than 26,000 citations, with a Google Scholar h-index of 74.
 
 (page last updated Apr 2026)
 
