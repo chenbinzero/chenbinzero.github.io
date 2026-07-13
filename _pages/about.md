@@ -11,21 +11,20 @@ I am a Research Associate Professor at Northwestern University. I received my Ph
 
 I have been recognized as a Highly Cited Researcher in the Cross-Field category by Clarivate and featured in Stanford/Elsevier’s list of top 2% scientists worldwide. As a first or corresponding author, I have published 19 high-impact papers, including Science (3), Nature (1), Nature Energy (2), Nature Photonics (1), and Nature Synthesis (1), contributing to a total of over 121 publications. My work has received more than 26,000 citations, with a Google Scholar h-index of 74.
 
-(page last updated Apr 2026)
+(page last updated Jul 2026)
 
 ## News
-* *2025.04* I am joining MRS Spring meeting in Seattle Apr 7-11
-* *2025.01* Our latest work on perovskite solar cells is online! [Carboxyl-functionalized perovskite enables ALD growth of a compact and uniform ion migration barrier - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S2542435124005154)
-* *2024.11* I am joining MRS Fall meeting in Boston Dec 1-5
-* *2024.11* Our latest work on perovskite solar cells is online! [Amidination of ligands for chemical and field-effect passivation stabilizes perovskite solar cells – Science](https://www.science.org/doi/10.1126/science.adr2091)
-* *2024.11* My interview with the Chicago Reader People Issue is now live! [Bin Chen, The Solar-Cell Chemist - The People Issue 2024 - Chicago Reader](https://chicagoreader.com/city-life/people-issue/bin-chen/)
-* *2024.08* Our latest work on perovskite solar cells is online! [Diamine chelates for increased stability in mixed Sn–Pb and all-perovskite tandem solar cells – Nature Energy](https://www.nature.com/articles/s41560-024-01613-8)
-* *2024.07* I am joining ACS Fall meeting in Denver August 18-19
-* *2024.05* I am joining Tandem PV workshop in Amsterdam June 25-27
-* *2024.04* Our latest work on perovskite solar cells is online! [Improved charge extraction in inverted perovskite solar cells with dual-site-binding ligands – Science](https://www.science.org/doi/10.1126/science.adm9474)
-* *2024.03* Our latest work on perovskite surface defect passivation, highlighting the importance of dynamic defect-passivant interaction, is online! [The dynamic adsorption affinity of ligands is a surrogate for the passivation of surface defects  – Nature Communications](https://www.nature.com/articles/s41467-024-46368-8)
-* *2024.01* Our latest work on the perovskite tandem is online!  [All-Perovskite Tandems Enabled by Surface Anchoring of Long-Chain Amphiphilic Ligands – ACS Energy Letters](https://pubs.acs.org/doi/full/10.1021/acsenergylett.3c02470)
-* *2024.01* Our latest work on the perovskite solar mini-module is online! [A thermotropic liquid crystal enables efficient and stable perovskite solar modules – Nature Energy](https://www.nature.com/articles/s41560-023-01444-z)
+* *2026.12* I will give an invited talk at the MRS Fall Meeting in Boston
+* *2026.07* Our work "Phase-Homogeneous Mixed Halide Perovskites for Stable Tandem Photovoltaics" is accepted in *Nature* — congratulations to the team!
+* *2026.07* I am giving an invited talk at IPS-25, the 25th International Conference on Photochemical Conversion and Storage of Solar Energy, in Seoul
+* *2026.06* I gave an invited talk, "Stabilizing high-efficiency perovskite solar cells", at the 6th tandemPV Workshop in Berlin
+* *2026.04* Our review on interface design is online! [Synthetic routes to advancing perovskite solar cells through interface design – Nature Synthesis](https://doi.org/10.1038/s44160-026-01033-4)
+* *2026.04* I gave an invited talk at the MRS Spring Meeting
+* *2026.03* I organized a symposium at the ACS Spring Meeting
+* *2025.10* I discussed my vision as Director of Research in a Trienens Institute interview: [Q&A with Dr. Bin Chen: Advancing Research and Collaboration](https://trienens-institute.northwestern.edu/news-events/news/2025/qa-with-dr-bin-chen-advancing-research-and-collaboration-at-the-trienens-institute.html)
+* *2025.08* I was appointed Director of Research at the Paula M. Trienens Institute for Sustainability and Energy
+
+[See all news →](/news/)
 
 
 <!--
