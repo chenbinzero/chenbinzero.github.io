@@ -85,7 +85,7 @@ $(document).ready(function () {
   bumpIt();
 
   // FitVids init
-  fitvids();
+  $("article").fitVids();
 
   // Follow menu drop down
   $(".author__urls-wrapper button").on("click", function () {
