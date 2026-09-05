@@ -11,18 +11,18 @@ I am a Research Associate Professor at Northwestern University. I received my Ph
 
 I have been recognized as a Highly Cited Researcher in the Cross-Field category by Clarivate and featured in Stanford/Elsevier’s list of top 2% scientists worldwide. As a first or corresponding author, I have published 19 high-impact papers, including Science (3), Nature (1), Nature Energy (2), Nature Photonics (1), and Nature Synthesis (1), contributing to a total of over 121 publications. My work has received more than 26,000 citations, with a Google Scholar h-index of 74.
 
-(page last updated Jul 2026)
+(page last updated Sep 2026)
 
 ## News
 * *2026.12* I will give an invited talk at the MRS Fall Meeting in Boston
-* *2026.07* Our work "Phase-Homogeneous Mixed Halide Perovskites for Stable Tandem Photovoltaics" is accepted in *Nature* — congratulations to the team!
-* *2026.07* I am giving an invited talk at IPS-25, the 25th International Conference on Photochemical Conversion and Storage of Solar Energy, in Seoul
+* *2026.08* Our work "Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells" is accepted in *Nature Chemistry* — congratulations to Donghoon and the team!
+* *2026.08* I organized the symposium "Materials Chemistry for Space Power Technologies" at the ACS Fall Meeting in Chicago
+* *2026.08* Our symposium "Multilayer Perovskite Optoelectronics" is accepted for the nanoGe MATSUS Spring 2027 meeting in Barcelona
+* *2026.07* Our work on phase-homogeneous wide-bandgap perovskites is online! [Phase-homogeneous mixed-halide perovskites for stable tandem photovoltaics – Nature](https://doi.org/10.1038/s41586-026-10929-2)
+* *2026.07* I gave an invited talk at IPS-25, the 25th International Conference on Photochemical Conversion and Storage of Solar Energy, in Seoul
 * *2026.06* I gave an invited talk, "Stabilizing high-efficiency perovskite solar cells", at the 6th tandemPV Workshop in Berlin
+* *2026.05* I organized the Northwestern–HZB–CU Boulder Tandem PV Workshop
 * *2026.04* Our review on interface design is online! [Synthetic routes to advancing perovskite solar cells through interface design – Nature Synthesis](https://doi.org/10.1038/s44160-026-01033-4)
-* *2026.04* I gave an invited talk at the MRS Spring Meeting
-* *2026.03* I organized a symposium at the ACS Spring Meeting
-* *2025.10* I discussed my vision as Director of Research in a Trienens Institute interview: [Q&A with Dr. Bin Chen: Advancing Research and Collaboration](https://trienens-institute.northwestern.edu/news-events/news/2025/qa-with-dr-bin-chen-advancing-research-and-collaboration-at-the-trienens-institute.html)
-* *2025.08* I was appointed Director of Research at the Paula M. Trienens Institute for Sustainability and Energy
 
 [See all news →](/news/)
 

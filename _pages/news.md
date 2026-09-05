@@ -7,9 +7,13 @@ author_profile: true
 
 ## 2026
 * *2026.12* Bin will give an invited talk at the MRS Fall Meeting in Boston
-* *2026.07* Our work "Phase-Homogeneous Mixed Halide Perovskites for Stable Tandem Photovoltaics" is accepted in *Nature* — congratulations to the team!
-* *2026.07* Bin is giving an invited talk at IPS-25, the 25th International Conference on Photochemical Conversion and Storage of Solar Energy, in Seoul
+* *2026.08* Our work on orthogonal Lewis acid–base passivation, "Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells", is accepted in *Nature Chemistry* — congratulations to Donghoon and the team!
+* *2026.08* Bin organizes the symposium "Materials Chemistry for Space Power Technologies" at the ACS Fall Meeting in Chicago
+* *2026.08* Bin's symposium "Multilayer Perovskite Optoelectronics" is accepted for the nanoGe MATSUS Spring 2027 meeting in Barcelona
+* *2026.07* Our work on phase-homogeneous wide-bandgap perovskites is online! [Phase-homogeneous mixed-halide perovskites for stable tandem photovoltaics – Nature](https://doi.org/10.1038/s41586-026-10929-2)
+* *2026.07* Bin gives an invited talk at IPS-25, the 25th International Conference on Photochemical Conversion and Storage of Solar Energy, in Seoul
 * *2026.06* Bin gives an invited talk, "Stabilizing high-efficiency perovskite solar cells", at the 6th tandemPV Workshop in Berlin
+* *2026.05* Bin organizes the Northwestern–HZB–CU Boulder Tandem PV Workshop
 * *2026.04* Our review on interface design is online! [Synthetic routes to advancing perovskite solar cells through interface design – Nature Synthesis](https://doi.org/10.1038/s44160-026-01033-4)
 * *2026.04* Bin gives an invited talk at the MRS Spring Meeting
 * *2026.03* Bin organizes a symposium at the ACS Spring Meeting
