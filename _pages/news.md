@@ -6,6 +6,7 @@ author_profile: true
 
 
 ## 2026
+* *2026.09* Our work on orthogonal defect passivation is online! [Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells – Nature Chemistry](https://doi.org/10.1038/s41557-026-02261-z) — congratulations to Donghoon and the team!
 * *2026.12* Bin will give an invited talk at the MRS Fall Meeting in Boston
 * *2026.08* Our work on orthogonal Lewis acid–base passivation, "Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells", is accepted in *Nature Chemistry* — congratulations to Donghoon and the team!
 * *2026.08* Bin organizes the symposium "Materials Chemistry for Space Power Technologies" at the ACS Fall Meeting in Chicago
