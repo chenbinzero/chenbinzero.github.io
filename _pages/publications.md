@@ -63,7 +63,7 @@ author_profile: true
 </style>
 
 ## Selected Publications
-(† equal contribution, \* corresponding author — full list on Google Scholar)
+(† equal contribution, \* corresponding author)
 
 {% include base_path %}
 
