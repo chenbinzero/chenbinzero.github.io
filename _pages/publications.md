@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% if site.author.webofscience %}
-  <div class="wordwrap">I was recognized as a Highly Cited Researcher in the field of Cross-Field — 2023, 2024 &amp; 2025 <a href="{{site.author.webofscience}}">by Clarivate</a>.</div>
+  <div class="wordwrap">I was recognized as a Highly Cited Researcher in the field of Cross-Field — 2023, 2024, 2025 &amp; 2026 <a href="{{site.author.webofscience}}">by Clarivate</a>.</div>
 {% endif %}
 
 <!-- Citation stats — read from _data/google_scholar_stats.json (updated monthly by GitHub Action) -->
