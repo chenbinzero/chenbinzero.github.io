@@ -6,6 +6,8 @@ author_profile: true
 
 
 ## 2026
+* *2026.11* I was named a Clarivate Highly Cited Researcher (Cross-Field) for the fourth consecutive year
+* *2026.11* Our Preview is online! [Selective washing for reproducible 2D/3D perovskite interfaces – Joule](https://doi.org/10.1016/j.joule.2026.102738) — with Xin Jiang
 * *2026.09* Our work on orthogonal defect passivation is online! [Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells – Nature Chemistry](https://doi.org/10.1038/s41557-026-02261-z) — congratulations to Donghoon and the team!
 * *2026.12* Bin will give an invited talk at the MRS Fall Meeting in Boston
 * *2026.08* Our work on orthogonal Lewis acid–base passivation, "Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells", is accepted in *Nature Chemistry* — congratulations to Donghoon and the team!

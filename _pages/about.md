@@ -9,11 +9,13 @@ redirect_from:
 
 I am a Research Associate Professor at Northwestern University. I received my Ph.D. in Materials Science and Engineering from Arizona State University, focusing on understanding defects in 2D materials. Before joining Northwestern, I completed postdoctoral training at the University of Toronto, where I studied perovskites, quantum dots, and their optoelectronic devices. Currently, my research centers on defect passivation and enhancing the stability of interfaces in perovskite solar cells.
 
-I have been recognized as a Clarivate Highly Cited Researcher (Cross-Field, 2023–2025). As a first or corresponding author, I have published 25 papers, including *Science* (3), *Nature* (2), *Nature Energy* (2), *Nature Photonics* (1), *Nature Synthesis* (1), and *Nature Chemistry* (1), among more than 140 publications in total. My work has been cited more than 29,000 times, with a Google Scholar h-index of 77.
+I have been recognized as a Clarivate Highly Cited Researcher (Cross-Field, 2023–2026). As a first or corresponding author, I have published 27 papers, including *Science* (3), *Nature* (2), *Nature Energy* (2), *Nature Photonics* (1), *Nature Synthesis* (1), and *Nature Chemistry* (1), among more than 150 publications in total. My work has been cited more than 30,000 times, with a Google Scholar h-index of 77.
 
-(page last updated Sep 2026)
+(page last updated Nov 2026)
 
 ## News
+* *2026.11* I was named a Clarivate Highly Cited Researcher (Cross-Field) for the fourth consecutive year
+* *2026.11* Our Preview is online! [Selective washing for reproducible 2D/3D perovskite interfaces – Joule](https://doi.org/10.1016/j.joule.2026.102738) — with Xin Jiang
 * *2026.09* Our work on orthogonal defect passivation is online! [Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells – Nature Chemistry](https://doi.org/10.1038/s41557-026-02261-z) — congratulations to Donghoon and the team!
 * *2026.12* I will give an invited talk at the MRS Fall Meeting in Boston
 * *2026.08* Our work "Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells" is accepted in *Nature Chemistry* — congratulations to Donghoon and the team!
