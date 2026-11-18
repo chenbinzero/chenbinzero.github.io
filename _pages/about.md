@@ -18,7 +18,6 @@ I have been recognized as a Clarivate Highly Cited Researcher (Cross-Field, 2023
 * *2026.11* Our Preview is online! [Selective washing for reproducible 2D/3D perovskite interfaces – Joule](https://doi.org/10.1016/j.joule.2026.102738) — with Xin Jiang
 * *2026.09* Our work on orthogonal defect passivation is online! [Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells – Nature Chemistry](https://doi.org/10.1038/s41557-026-02261-z) — congratulations to Donghoon and the team!
 * *2026.12* I will give an invited talk at the MRS Fall Meeting in Boston
-* *2026.08* Our work "Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells" is accepted in *Nature Chemistry* — congratulations to Donghoon and the team!
 * *2026.08* I organized the symposium "Materials Chemistry for Space Power Technologies" at the ACS Fall Meeting in Chicago
 * *2026.08* Our symposium "Multilayer Perovskite Optoelectronics" is accepted for the nanoGe MATSUS Spring 2027 meeting in Barcelona
 * *2026.07* Our work on phase-homogeneous wide-bandgap perovskites is online! [Phase-homogeneous mixed-halide perovskites for stable tandem photovoltaics – Nature](https://doi.org/10.1038/s41586-026-10929-2)
